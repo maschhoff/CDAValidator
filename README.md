@@ -7,3 +7,6 @@ Validates HL7 CDA Files by Schema and Schematron rules.
   - Please make shure to run this inside your users forder (not C:/Program Files)
   - GUi Tool simply run CDAValidator.exe 
   - CommandLine run ValidatorCMD.bat [cda file] [schematron rules] [xsd schema] 
+
+# donate
+Buy me a Pizza -> https://www.buymeacoffee.com/maschhoff
